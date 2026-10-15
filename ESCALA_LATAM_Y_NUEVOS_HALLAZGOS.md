@@ -93,6 +93,35 @@ Fuente primaria: https://fundacion.censa.edu.co/pdfs/acta_constitucion.pdf
 4. Estados financieros, informes de gestión y contratos de la fundación.
 5. Documentos que acrediten si hubo cambios en administración o representación.
 
+
+
+## 6.1. Aportes fundacionales y NIT: dato financiero primario adicional
+La lectura del acta de constitución de Fundación CENSA ofrece un detalle más concreto que la simple lista de fundadores. El documento declara un aporte inicial total de **$100.000.000 COP**, distribuido así:
+
+| Fundador que figura en el acta | Aporte inicial declarado | NIT o identificación que aparece en el documento | Participación del aporte total |
+|---|---:|---|---:|
+| Albert Corredor Gómez | $33.330.000 | El acta consigna su identificación personal; no se reproduce aquí | 33,33 % |
+| Centro de Sistemas de Antioquia S.A.S. | $33.340.000 | NIT 811.030.714-0 | 33,34 % |
+| Inversiones Inmobiliarias Corredores S.A.S. | $33.330.000 | NIT 900.853.309-5 | 33,33 % |
+| **Total** | **$100.000.000** | | **100 %** |
+
+Fuente primaria: https://fundacion.censa.edu.co/pdfs/acta_constitucion.pdf. La página indexada del propio PDF también permite corroborar los importes y el total. 
+
+**Qué se puede concluir:** el acta atribuye a Albert Corredor Gómez y a las dos sociedades los aportes constitutivos descritos, y documenta una relación económica fundacional entre estas entidades en el momento de constitución.
+
+**Qué no se puede concluir:** esos porcentajes son proporciones del aporte inicial a una fundación, **no acciones ni participaciones de propiedad sobre la fundación**. Tampoco demuestran la titularidad actual de las dos sociedades, el origen bancario de los fondos, su situación financiera posterior ni el control actual de la fundación. Se deben consultar estados financieros, actas posteriores y certificados mercantiles.
+
+Una certificación publicada por Fundación CENSA sobre cargos directivos del año 2019 lista a Albert Corredor Gómez como presidente y a Centro de Sistemas de Antioquia S.A.S. e Inversiones Inmobiliarias Corredores S.A.S. como secretario y tesorero, respectivamente; también informa que la remuneración de esos cargos figura como “$ -” en el documento. Esta es una declaración institucional sobre 2019, no prueba del gobierno vigente ni de ausencia de pagos por otros conceptos.
+Fuente: https://fundacion.censa.edu.co/pdfs/Remuneracion-de-cargos-directivos-gerenciales-2019-1folio.pdf
+
+## 7.1. Documentación administrativa adicional de CENSA (2025)
+El documento con radicado 202530070166 es una respuesta de la Alcaldía de Medellín fechada el 19 de febrero de 2025, dirigida a Albert Corredor Gómez como representante legal de Centro de Sistemas de Antioquia–CENSA, en relación con costos educativos de 2025 y con referencias a radicados previos. Es evidencia primaria de cómo la administración municipal lo identificó en ese trámite; no sustituye el certificado mercantil ni demuestra propiedad accionaria.
+Fuente: https://www.censa.edu.co/sitio/userfiles/202530070166.pdf
+
+## 8.1. Publicación institucional reciente sobre el papel de Albert Corredor Gómez
+Una nota publicada por CENSA el 19 de agosto de 2026 presenta a Albert Corredor Gómez como “presidente de CENSA como grupo empresarial” y refiere su asistencia al 8.º Congreso Empresarial Colombiano y 79.ª Asamblea Nacional de la ANDI. Es una descripción del propio grupo, útil para identificar su presentación pública actual; no demuestra que exista una sociedad matriz registrada ni revela los accionistas o beneficiarios finales de cada entidad.
+Fuente: https://www.censa.edu.co/sitio/salaprensa/censa-presente-en-espacios-que-aportan-a-la-construccion-de-pais
+
 ## 7. Representación legal de CENSA en 2025
 
 Una comunicación publicada en el dominio de CENSA contiene una respuesta de la Alcaldía de Medellín fechada el 19 de febrero de 2025, dirigida a **Albert Corredor Gómez como representante legal de Centro de Sistemas de Antioquia – CENSA**. La comunicación trata sobre costos educativos de 2025 y cita radicados administrativos.
