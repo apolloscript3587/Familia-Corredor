@@ -52,3 +52,24 @@ Fuente: [El Armadillo, perfil e investigación](https://elarmadillo.co/investiga
 3. Buscar contratos por razón social y NIT en SECOP y portales territoriales.
 4. Localizar números de radicado y decisiones de Procuraduría, Fiscalía, Contraloría y autoridades educativas.
 5. Documentar respuestas y rectificaciones, y actualizar este archivo con enlaces y fechas.
+
+
+## 9. Informe regulatorio de Florida: institución reportada como cerrada
+El informe anual 2024–2025 de la Commission for Independent Education del Departamento de Educación de Florida contiene una sección titulada “Institutions Reported as Closed”. En esa sección aparece CENSA International College en relación con Miami Gardens y Orlando. Se trata de una fuente regulatoria primaria para el estado reportado durante ese periodo, pero no establece por sí sola el motivo del cierre, la existencia de una infracción ni la invalidez de los títulos expedidos. Es necesario solicitar el expediente individual de licencia y el destino de los registros académicos.
+
+Fuente: https://cdn.fldoe.org/file/7748/annualreport.pdf
+
+## 10. Gobierno de la Corporación Universitaria Americana
+La Corporación Universitaria Americana publicó en su sitio oficial el Acta de Asamblea General No. 034 de 2025. El acta debe analizarse como documento primario para reconstruir decisiones, miembros y cargos en la fecha correspondiente. La presencia de una persona en una asamblea o en un órgano de gobierno no demuestra por sí sola propiedad personal ni control económico; deben revisarse estatutos y naturaleza jurídica de la institución.
+
+Fuente: https://americana.edu.co/wp-content/uploads/2025/07/Acta-de-Asamblea-General-N%C2%B0-034-de-2025.pdf
+
+## 11. Actuación disciplinaria reportada en 2025
+Durante la revisión se identificó una notificación/edicto de la Procuraduría de mayo de 2025 que refiere apertura de investigación disciplinaria a Albert Corredor por presunta participación indebida en política. La apertura es un acto procesal inicial y no equivale a sanción. Para confirmar el expediente con rigor deben registrarse el PDF oficial, el radicado, la conducta específica, la autoridad instructora y las decisiones posteriores. No se atribuye responsabilidad en ausencia de una decisión final comprobada.
+
+Punto de entrada: https://www.procuraduria.gov.co/
+
+## 12. Financiación política y negocio educativo: hipótesis, no conclusión
+Las2Orillas publicó un reportaje sobre el negocio educativo asociado a los Corredor y relaciones con actores políticos. Debe tratarse como hipótesis periodística que requiere contraste con contratos, informes financieros, soportes de aportes de campaña y decisiones del CNE. No hay base para inferir financiación ilegal únicamente por la coexistencia de contratos públicos, relaciones personales o actividad política.
+
+Fuente: https://www.las2orillas.co/el-millonario-negocio-de-los-corredor-con-el-que-financiaron-a-quintero-y-albert-se-metio-en-politica/
