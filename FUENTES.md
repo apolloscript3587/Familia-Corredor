@@ -93,3 +93,34 @@ Para cada afirmación, registrar:
 
 ## Recomendación de trazabilidad
 Para todo documento nuevo, añadir URL directa, fecha, número de expediente, páginas relevantes, entidad emisora, estado procesal y una copia o enlace permanente cuando esté disponible. No considerar una búsqueda sin resultados como prueba de inexistencia de un expediente.
+
+
+## Fuentes de la ampliación sobre ESCALA LATAM y estructura CENSA
+
+19. **ESCALA LATAM Summit 2026 — sitio oficial, agenda y presentaciones.** Anuncia el evento para el 15–16 de octubre de 2026 y presenta la alianza entre Corporación Universitaria Americana y Corporación de Educación Superior del Litoral. Presenta a Alba Lucía Corredor Gómez como rectora nacional de Americana y CEO de ESCALA LATAM; la agenda incluye a funcionarios y directivos como participantes anunciados. La web acredita lo publicitado, no la ejecución de acuerdos o conflictos de interés.
+    https://escalalatam.edu.co/summit/
+    Tipo: fuente institucional propia; agenda de evento.
+
+20. **Fundación CENSA — acta de constitución.** El documento consigna aportes iniciales por $100.000.000 COP: $33.330.000 de Albert Corredor Gómez, $33.340.000 de Centro de Sistemas de Antioquia S.A.S. (NIT 811.030.714-0) y $33.330.000 de Inversiones Inmobiliarias Corredores S.A.S. (NIT 900.853.309-5). Son aportes constitutivos de una fundación, no acciones ni porcentajes de propiedad sobre ella.
+    https://fundacion.censa.edu.co/pdfs/acta_constitucion.pdf
+    Tipo: fuente institucional primaria.
+
+21. **Fundación CENSA — remuneración de cargos directivos/gerenciales de 2019.** Lista a Albert Corredor Gómez como presidente, Centro de Sistemas de Antioquia S.A.S. como secretario e Inversiones Inmobiliarias Corredores S.A.S. como tesorero; la tabla muestra “$ -” para esos cargos. Es información referida a 2019, no a la composición vigente ni a todos los posibles pagos.
+    https://fundacion.censa.edu.co/pdfs/Remuneracion-de-cargos-directivos-gerenciales-2019-1folio.pdf
+    Tipo: certificación institucional.
+
+22. **Alcaldía de Medellín — respuesta sobre costos educativos 2025, radicado 202530070166.** Documento fechado el 19 de febrero de 2025 y dirigido a Albert Corredor Gómez como representante legal de Centro de Sistemas de Antioquia–CENSA.
+    https://www.censa.edu.co/sitio/userfiles/202530070166.pdf
+    Tipo: documento administrativo primario alojado por la institución.
+
+23. **CENSA — “CENSA presente en espacios que aportan a la construcción de país”.** Publicación de agosto de 2026 que presenta a Albert Corredor Gómez como presidente de CENSA como grupo empresarial y refiere su participación en un evento de la ANDI. La descripción pública no prueba por sí sola la estructura jurídica de una matriz empresarial.
+    https://www.censa.edu.co/sitio/salaprensa/censa-presente-en-espacios-que-aportan-a-la-construccion-de-pais
+    Tipo: publicación institucional propia.
+
+24. **CENSA — publicación institucional sobre el doctorado de Albert Corredor Gómez.** Afirma que obtuvo un doctorado en Estudios Organizacionales en la Universidad Autónoma Metropolitana (Iztapalapa). Pendiente de confirmación independiente en el repositorio o registro de la universidad otorgante.
+    https://censa.edu.co/sitio/salaprensa/el-exito-del-doctorado-de-albert-corredor-gomez%3A-el-resultado-de-la-alianza-entre-educacion-y-el-liderazgo-empresarial
+    Tipo: publicación institucional propia; no equivale a verificación por la universidad otorgante.
+
+25. **Corporación Universitaria Americana — publicación pública en LinkedIn sobre ESCALA LATAM.** Publicación promocional que anuncia el Summit para 15–16 de octubre de 2026 e invita a patrocinadores y aliados estratégicos. Sirve para documentar que el evento fue promovido comercialmente y que se buscaron patrocinadores/aliados, pero no identifica necesariamente quién patrocinó ni cuánto aportó.
+    https://es.linkedin.com/posts/americanabaq_portafolio-comercial-escala-latam-activity-7479933752924839938-Fseg
+    Tipo: comunicación institucional pública.
