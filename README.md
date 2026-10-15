@@ -24,6 +24,8 @@ Este repositorio no concluye que una persona haya cometido una falta por el solo
 - [Contratación y finanzas](CONTRATACION_Y_FINANZAS.md)
 - [Metodología y límites](METODOLOGIA_Y_LIMITES.md)
 
+- [ESCALA LATAM y nuevos hallazgos](ESCALA_LATAM_Y_NUEVOS_HALLAZGOS.md) — agenda, alianza Americana–Litoral, perfiles publicados, documentos primarios de Fundación CENSA y pistas de verificación.
+
 ## Estado de la investigación
 La versión ampliada contiene perfiles, un mapa institucional provisional, evaluación de controversias, pistas contractuales y fuentes oficiales nuevas. No es una investigación exhaustiva certificada: siguen pendientes expedientes administrativos completos, certificados societarios históricos, verificación de títulos y conciliación contrato por contrato.
 
