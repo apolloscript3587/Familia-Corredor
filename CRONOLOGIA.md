@@ -21,3 +21,7 @@ La cronología recoge fechas mencionadas por fuentes institucionales o periodís
 - Radicados y estado final de actuaciones de Procuraduría, Fiscalía, Contraloría y autoridades educativas.
 - Verificación de títulos, licencias y acreditación de Censa International College en Florida y otras jurisdicciones.
 - Contratos públicos desde 2010 hasta la fecha de corte, con datos originales de SECOP y portales locales.
+
+- **Año fiscal 2024–2025:** el informe anual de la Commission for Independent Education del Departamento de Educación de Florida incluye a CENSA International College en su sección de instituciones reportadas como cerradas, en relación con Miami Gardens y Orlando. El informe no especifica por sí solo causa, infracción ni invalidez de títulos. Fuente: https://cdn.fldoe.org/file/7748/annualreport.pdf
+- **Marzo de 2025:** la Corporación Universitaria Americana publicó el Acta de Asamblea General No. 034 de 2025. El documento es una fuente primaria para reconstruir gobierno y decisiones institucionales en esa fecha. Fuente: https://americana.edu.co/wp-content/uploads/2025/07/Acta-de-Asamblea-General-N%C2%B0-034-de-2025.pdf
+- **Mayo de 2025:** se localizó una notificación/edicto de la Procuraduría sobre apertura de investigación disciplinaria a Albert Corredor por presunta participación indebida en política. La apertura no es una sanción ni una declaración de responsabilidad. El número de radicado y el estado posterior deben incorporarse al expediente.
