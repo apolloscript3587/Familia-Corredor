@@ -25,6 +25,7 @@ Este repositorio no concluye que una persona haya cometido una falta por el solo
 - [Metodología y límites](METODOLOGIA_Y_LIMITES.md)
 
 - [ESCALA LATAM y nuevos hallazgos](ESCALA_LATAM_Y_NUEVOS_HALLAZGOS.md) — agenda, alianza Americana–Litoral, perfiles publicados, documentos primarios de Fundación CENSA y pistas de verificación.
+- [Verificación académica UAM — Albert Corredor Gómez](VERIFICACION_ACADEMICA_UAM_ALBERT_CORREDOR.md) — ficha de tesis doctoral, listado de generación y límites sobre la fecha formal del grado.
 
 ## Estado de la investigación
 La versión ampliada contiene perfiles, un mapa institucional provisional, evaluación de controversias, pistas contractuales y fuentes oficiales nuevas. No es una investigación exhaustiva certificada: siguen pendientes expedientes administrativos completos, certificados societarios históricos, verificación de títulos y conciliación contrato por contrato.
