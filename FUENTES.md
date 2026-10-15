@@ -124,3 +124,27 @@ Para todo documento nuevo, añadir URL directa, fecha, número de expediente, p�
 25. **Corporación Universitaria Americana — publicación pública en LinkedIn sobre ESCALA LATAM.** Publicación promocional que anuncia el Summit para 15–16 de octubre de 2026 e invita a patrocinadores y aliados estratégicos. Sirve para documentar que el evento fue promovido comercialmente y que se buscaron patrocinadores/aliados, pero no identifica necesariamente quién patrocinó ni cuánto aportó.
     https://es.linkedin.com/posts/americanabaq_portafolio-comercial-escala-latam-activity-7479933752924839938-Fseg
     Tipo: comunicación institucional pública.
+
+
+## Fuentes académicas: verificación de la tesis de Albert Corredor Gómez en la UAM
+
+26. **Universidad Autónoma Metropolitana, repositorio institucional (BINDANI) — “Estrategias para el fortalecimiento de la innovación educativa en la Corporación Universitaria Americana”.** Registra como autor a Corredor Gómez, Albert; editor UAM; año 2023; tipo de recurso `doctoralThesis`; posgrado Doctorado en Estudios Organizacionales; identificador DOI 10.24275/uami.b8515p17q. Es corroboración independiente de la existencia de una tesis doctoral registrada. La ficha por sí sola no muestra fecha de expedición del grado.
+    https://bindani.izt.uam.mx/concern/tesiuams/b8515p17q?locale=es
+    DOI: https://doi.org/10.24275/uami.b8515p17q
+    Tipo: fuente académica primaria.
+
+27. **UAM Iztapalapa — listado de generación del Doctorado en Estudios Organizacionales 2019–2023.** Incluye a Corredor Gómez Albert, fecha de ingreso 2019-05-06 y una tesis sobre intervención organizacional e innovación educativa en la Corporación Universitaria Americana. El campo “Obtención de grado” aparece como “0000-00-00”, por lo que el documento no permite fijar la fecha de obtención.
+    https://dcsh.izt.uam.mx/posgrado/peo/wp-content/uploads/2024/02/Generacion-Doctorado-2019-2023.pdf
+    Tipo: fuente académica primaria.
+
+28. **CENSA — “El éxito del Doctorado de Albert Corredor Gómez: el resultado de la alianza entre Educación y el Liderazgo Empresarial”, 5 de septiembre de 2023.** Afirma que Albert Corredor Gómez defendió exitosamente su tesis en UAM Iztapalapa y obtuvo calificación “MB”. Se registra como declaración institucional de una organización relacionada con el protagonista, no como certificado emitido por la UAM.
+    https://censa.edu.co/sitio/salaprensa/el-exito-del-doctorado-de-albert-corredor-gomez%3A-el-resultado-de-la-alianza-entre-educacion-y-el-liderazgo-empresarial
+    Tipo: fuente institucional secundaria respecto de la graduación.
+
+29. **UAM Iztapalapa — portal oficial.** Portal institucional para identificar las áreas y los canales de contacto del programa académico.
+    https://www.iztapalapa.uam.mx/
+    Tipo: fuente institucional primaria.
+
+30. **Universidad Autónoma Metropolitana — portal general.** Portal institucional general de la universidad otorgante.
+    https://www.uam.mx/index.html
+    Tipo: fuente institucional primaria.
