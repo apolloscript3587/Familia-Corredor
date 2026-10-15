@@ -71,3 +71,25 @@ Para cada afirmación, registrar:
 - ¿Incluye respuesta de la persona o institución señalada?
 - ¿Hay resolución oficial posterior, rectificación o archivo?
 - ¿Qué parte exacta de la afirmación está sustentada?
+
+
+## Fuentes adicionales incorporadas en la ampliación
+
+15. **Florida Department of Education — Commission for Independent Education, Annual Report 2024–2025.** Informe oficial con sección de instituciones reportadas como cerradas. La revisión identificó CENSA International College en esa sección, asociada a Miami Gardens y Orlando. La inclusión no indica por sí sola motivo de cierre, infracción o invalidez de títulos.
+    https://cdn.fldoe.org/file/7748/annualreport.pdf
+    Tipo: fuente regulatoria primaria. Uso: comprobar estado reportado y solicitar el expediente individual.
+
+16. **Corporación Universitaria Americana — Acta de Asamblea General No. 034 de 2025.** Documento de gobierno institucional publicado en el sitio oficial. Debe leerse íntegramente para determinar asistentes, decisiones y cargos en la fecha del acta; no equivale automáticamente a un registro de propiedad accionaria.
+    https://americana.edu.co/wp-content/uploads/2025/07/Acta-de-Asamblea-General-N%C2%B0-034-de-2025.pdf
+    Tipo: documento institucional primario.
+
+17. **Las2Orillas — “Censa el millonario negocio de los Corredor con el que financiaron a Quintero y Albert se metió en política”.** Publicación periodística sobre intereses económicos y política. Los señalamientos deben contrastarse con contratos, declaraciones de ingresos y gastos y decisiones oficiales; el título no es prueba de financiación irregular.
+    https://www.las2orillas.co/el-millonario-negocio-de-los-corredor-con-el-que-financiaron-a-quintero-y-albert-se-metio-en-politica/
+    Tipo: fuente periodística secundaria.
+
+18. **Procuraduría General de la Nación — portal oficial.** Punto de entrada para localizar notificaciones, expedientes y decisiones disciplinarias. Durante la revisión se identificó una notificación de mayo de 2025 sobre apertura de investigación disciplinaria por presunta participación indebida en política contra Albert Corredor; el PDF íntegro y el estado posterior deben incorporarse antes de tratar el proceso como verificado en detalle.
+    https://www.procuraduria.gov.co/
+    Tipo: autoridad disciplinaria; la referencia exacta al edicto sigue pendiente de archivo.
+
+## Recomendación de trazabilidad
+Para todo documento nuevo, añadir URL directa, fecha, número de expediente, páginas relevantes, entidad emisora, estado procesal y una copia o enlace permanente cuando esté disponible. No considerar una búsqueda sin resultados como prueba de inexistencia de un expediente.
