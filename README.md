@@ -19,6 +19,13 @@ Este repositorio no concluye que una persona haya cometido una falta por el solo
 - [Hallazgos preliminares](HALLAZGOS_PRELIMINARES.md)
 - [Registro de fuentes](FUENTES.md)
 - [Cronología inicial](CRONOLOGIA.md)
+- [Perfiles y entidades](PERFILES_Y_ENTIDADES.md)
+- [Controversias y procesos](CONTROVERSIAS_Y_PROCESOS.md)
+- [Contratación y finanzas](CONTRATACION_Y_FINANZAS.md)
+- [Metodología y límites](METODOLOGIA_Y_LIMITES.md)
+
+## Estado de la investigación
+La versión ampliada contiene perfiles, un mapa institucional provisional, evaluación de controversias, pistas contractuales y fuentes oficiales nuevas. No es una investigación exhaustiva certificada: siguen pendientes expedientes administrativos completos, certificados societarios históricos, verificación de títulos y conciliación contrato por contrato.
 
 ## Limitaciones importantes
 La investigación inicial se basa en fuentes públicas disponibles en línea. No equivale a una auditoría societaria, contable, académica ni judicial. La titularidad legal vigente, beneficiarios finales, licencias extranjeras, acreditación de títulos y estado actual de procesos deben comprobarse en registros oficiales competentes. Los datos personales no pertinentes, privados o sensibles quedan fuera del alcance.
