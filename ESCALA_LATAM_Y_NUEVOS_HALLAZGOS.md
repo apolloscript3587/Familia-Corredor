@@ -174,3 +174,21 @@ La fuente confirma que la institución hace esa afirmación públicamente; para 
 ESCALA LATAM aporta una pista importante porque conecta de forma explícita a Alba Lucía Corredor Gómez, la Corporación Universitaria Americana y la Corporación de Educación Superior del Litoral en una alianza anunciada públicamente. La agenda también presenta a funcionarios y actores empresariales como participantes. Es información útil para estudiar relaciones institucionales, pero no constituye evidencia de una irregularidad.
 
 Los documentos de Fundación CENSA y la comunicación administrativa de 2025 añaden fuentes primarias al mapa institucional. Las siguientes conclusiones requieren todavía registros de sociedad, estatutos, contratos y documentos académicos de las instituciones otorgantes.
+
+
+## 13. Actualización: corroboración académica independiente del doctorado de Albert Corredor Gómez
+Los portales de la Universidad Autónoma Metropolitana compartidos para esta investigación permitieron localizar una ficha oficial del repositorio BINDANI. El registro “Estrategias para el fortalecimiento de la innovación educativa en la Corporación Universitaria Americana” identifica a “Corredor Gómez, Albert” como autor, señala 2023 como año de publicación, lo clasifica como `doctoralThesis` y lo asocia al Doctorado en Estudios Organizacionales.
+
+Fuentes UAM:
+- Ficha institucional: https://bindani.izt.uam.mx/concern/tesiuams/b8515p17q?locale=es
+- DOI: https://doi.org/10.24275/uami.b8515p17q
+- Listado de generación 2019–2023: https://dcsh.izt.uam.mx/posgrado/peo/wp-content/uploads/2024/02/Generacion-Doctorado-2019-2023.pdf
+
+El listado de la generación incluye a Corredor Gómez Albert con fecha de ingreso 2019-05-06 y registra el título “La intervención organizacional para el fortalecimiento de la innovación educativa: estudio de caso en la Corporación Universitaria Americana”. En el campo “Obtención de grado” aparece “0000-00-00”. Ese dato no permite establecer la fecha de expedición del grado, ni permite concluir que no se haya obtenido: el mismo formato usa ese valor en otras entradas.
+
+CENSA publicó el 5 de septiembre de 2023 una nota que afirma que Albert Corredor Gómez defendió exitosamente la tesis en UAM Iztapalapa y obtuvo la calificación “MB”: https://censa.edu.co/sitio/salaprensa/el-exito-del-doctorado-de-albert-corredor-gomez%3A-el-resultado-de-la-alianza-entre-educacion-y-el-liderazgo-empresarial. Como esa publicación proviene de una institución relacionada con el protagonista, se mantiene separada de la fuente universitaria independiente.
+
+### Conclusión provisional
+La existencia de una tesis doctoral registrada por la UAM queda corroborada por fuente primaria. La culminación y fecha formal de expedición del grado cuentan con una afirmación pública de CENSA, pero aún conviene pedir confirmación directa a la UAM o un acta/constancia oficial. También debe revisarse la diferencia entre el título del repositorio y el título que aparece en el listado de generación antes de inferir que es una discrepancia sustantiva.
+
+El informe detallado está en [VERIFICACION_ACADEMICA_UAM_ALBERT_CORREDOR.md](VERIFICACION_ACADEMICA_UAM_ALBERT_CORREDOR.md).
